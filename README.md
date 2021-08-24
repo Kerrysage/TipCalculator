@@ -1,1 +1,1 @@
-# TipCalculator
+Tip Calculator Practice Project
